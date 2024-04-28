@@ -6,10 +6,9 @@
 
 → We can’t run javascript directly in computer or server, node allows us to do this.
 
-→ V8 engine compiles javascript code into machine code . Node.js wraps v8 engine,
- since node is written in c++, it can run in our computer directly.
+→ V8 engine compiles javascript code into machine code . Node.js wraps v8 engine, since node is written in c++, it can run in our computer directly.
 
-**Node.js**
+## **Node.js**
 
 → node.js adds more features to javascript like:
 
